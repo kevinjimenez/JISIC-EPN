@@ -1,0 +1,7 @@
+{
+  "name": "JISIC-APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
